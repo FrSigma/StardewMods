@@ -186,7 +186,7 @@
   "building.animals.summary": "{{count}} sur {{max}} animaux",
   "building.construction.summary": "prêt le {{date}}",
   "building.feed-trough.automated": "automatisé",
-  "building.feed-trough.summary": "{{filled}} sz {{max}} emplacements de nourriture remplis",
+  "building.feed-trough.summary": "{{filled}} sur {{max}} emplacements de nourriture remplis", //A word was wrong. Now corrected.
   "building.horse-location.summary": "{{location}} ({{x}}, {{y}})",
   "building.junimo-harvesting-enabled": "Récolte activée",
   "building.owner.none": "pas de propriétaire",
